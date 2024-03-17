@@ -12,7 +12,7 @@ User authenticated as admin can access the admin dashboard where admin can perfo
 
 - [Repository](https://github.com/Kapileswar-Moharana/Library-Management-System?tab=readme-ov-file")
 
-- [Live Demo](https://alvinmd-library.onrender.com// "Live on Render")
+- [Live Demo](")
 
 ## Build With
 - [Node.js](https://nodejs.org/en/)
@@ -156,16 +156,6 @@ $ npm start
 
   View the website at: http://localhost:3000
 
-## Philosophy
-
-  The Express philosophy is to provide small, robust tooling for HTTP servers, making
-  it a great solution for single page applications, websites, hybrids, or public
-  HTTP APIs.
-
-  Express does not force you to use any specific ORM or template engine. With support for over
-  14 template engines via [Consolidate.js](https://github.com/tj/consolidate.js),
-  you can quickly craft your perfect framework.
-
 ## Examples
 
   To view the examples, clone the Express repo and install the dependencies:
@@ -195,25 +185,6 @@ $ npm test
 
 [Contributing Guide](Contributing.md)
 
-## People
 
-The original author of Express is [TJ Holowaychuk](https://github.com/tj)
 
-The current lead maintainer is [Douglas Christopher Wilson](https://github.com/dougwilson)
 
-[List of all contributors](https://github.com/expressjs/express/graphs/contributors)
-
-## License
-
-  [MIT](LICENSE)
-
-[ci-image]: https://img.shields.io/github/workflow/status/expressjs/express/ci/master.svg?label=linux
-[ci-url]: https://github.com/expressjs/express/actions?query=workflow%3Aci
-[npm-image]: https://img.shields.io/npm/v/express.svg
-[npm-url]: https://npmjs.org/package/express
-[downloads-image]: https://img.shields.io/npm/dm/express.svg
-[downloads-url]: https://npmcharts.com/compare/express?minimal=true
-[appveyor-image]: https://img.shields.io/appveyor/ci/dougwilson/express/master.svg?label=windows
-[appveyor-url]: https://ci.appveyor.com/project/dougwilson/express
-[coveralls-image]: https://img.shields.io/coveralls/expressjs/express/master.svg
-[coveralls-url]: https://coveralls.io/r/expressjs/express?branch=master
