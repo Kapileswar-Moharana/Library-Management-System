@@ -12,7 +12,7 @@ User authenticated as admin can access the admin dashboard where admin can perfo
 
 - [Repository](https://github.com/Kapileswar-Moharana/Library-Management-System?tab=readme-ov-file")
 
-- [Live Demo](")
+- [Live Demo](https://library-management-system-1-attg.onrender.com")
 
 ## Build With
 - [Node.js](https://nodejs.org/en/)
