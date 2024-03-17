@@ -10,7 +10,7 @@ User authenticated as admin can access the admin dashboard where admin can perfo
 
 ## Links
 
-- [Repository](https://github.com/alvinmdj/library-management-system "Library Management System Repo")
+- [Repository](https://github.com/Kapileswar-Moharana/Library-Management-System?tab=readme-ov-file")
 
 - [Live Demo](https://alvinmd-library.onrender.com// "Live on Render")
 
@@ -32,7 +32,7 @@ These are the requirements to run this project.
 Clone this repository
 
 ```sh
-git clone https://github.com/alvinmdj/library-management-system.git
+git clone https://github.com/Kapileswar-Moharana/library-management-system.git
 ```
 
 Change to the project directory
